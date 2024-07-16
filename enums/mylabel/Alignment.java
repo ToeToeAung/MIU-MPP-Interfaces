@@ -1,4 +1,4 @@
-package lesson7.lecture.enums.mylabel;
+package Interfaces.enums.mylabel;
 
 public enum Alignment {
 	LEFT, CENTER, RIGHT;

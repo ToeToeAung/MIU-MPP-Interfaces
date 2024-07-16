@@ -1,5 +1,5 @@
-//improved version using an enum
-package lesson7.lecture.enums.mylabel;
+
+package Interfaces.enums.mylabel;
 
 public class Label  {
 
