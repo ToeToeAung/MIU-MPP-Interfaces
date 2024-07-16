@@ -5,9 +5,9 @@ public enum Dim {
 	WIDTH(2.0);
 	double val;
 	Dim(double val){
-		this.val=val;
+		this.val =val;
 	}
-	public double val() {
+	public double val(){
 		return val;
 	}
 }
